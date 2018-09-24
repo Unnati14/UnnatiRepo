@@ -1,4 +1,5 @@
 Question:
+
   Byomkesh : Ajit babu, are you game to solve a challenge ? 
   Ajit : Do I have a choice ? 
   Byomkesh : Ha, ha, hah. Do not feel so resigned. Challenges are good for the little grey cells as Hercule Poirot would say. 
@@ -20,5 +21,5 @@ Question:
 Solution:
   -	Initialize numOfAs = 0
   -	Till end of string, get next character.
-      o	  If “A” comes increment value of numOfAs by 1 else if “B” comes decrement value of numOfAs by 1
+    o	  If “A” comes increment value of numOfAs by 1 else if “B” comes decrement value of numOfAs by 1
   -	At the end if value of numOfAs is 0 then both “A” and “B” are in equal number else not equal.
