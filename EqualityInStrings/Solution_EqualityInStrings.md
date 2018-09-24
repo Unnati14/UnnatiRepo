@@ -21,5 +21,5 @@ Question:
 Solution:
   -	Initialize numOfAs = 0
   -	Till end of string, get next character.
-    o	  If “A” comes increment value of numOfAs by 1 else if “B” comes decrement value of numOfAs by 1
+      - If “A” comes increment value of numOfAs by 1 else if “B” comes decrement value of numOfAs by 1
   -	At the end if value of numOfAs is 0 then both “A” and “B” are in equal number else not equal.
